@@ -1,0 +1,17 @@
+{
+  "name": "crud-apllication-mongodb",
+  "version": "1.0.0",
+  "description": "A simple application to Create, Read, Update, and Delete (CRUD) entries in a MongoDB database using Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anirban Dutta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}

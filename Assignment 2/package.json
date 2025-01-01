@@ -1,0 +1,11 @@
+{
+  "name": "file-management-tool",
+  "version": "1.0.0",
+  "description": "Basic Node file management tool that can create, read, and delete files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anirban Dutta",
+  "license": "ISC"
+}

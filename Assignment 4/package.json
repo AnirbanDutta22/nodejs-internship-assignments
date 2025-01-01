@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "basic-express-server",
+  "version": "1.0.0",
+  "description": "simple web server using Express.js that can handle basic routing and middleware",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Anirban Dutta",
+  "license": "ISC"
+}
